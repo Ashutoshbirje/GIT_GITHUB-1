@@ -9,4 +9,4 @@
 --> Modifed Phase (M)
 --> git add <File name>
 --> git commit -m "File  .txt in Staged phase After modification"
---> Unmodifed Phase ( )
+--> Unmodifed Phase ( ).

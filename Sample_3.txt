@@ -4,5 +4,5 @@
 --> git add <File name>
 --> Staged Phase (A)
 --> git commit -m "File  .txt in Staged phase before modification"
---> Unmodifed Phase ( )
+--> Unmodifed Phase ( ).
 
