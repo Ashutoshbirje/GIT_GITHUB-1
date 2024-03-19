@@ -1,6 +1,6 @@
 // local to remote
 --> git init
 --> Untracked Phase (U)
---> git add <File name>.
+--> git add <File name> .
 
 
